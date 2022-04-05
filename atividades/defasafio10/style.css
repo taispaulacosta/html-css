@@ -1,0 +1,74 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&family=Roboto+Slab:wght@100;200;400&display=swap');
+
+body{
+    font-family: 'Bebas Neue';
+    background-color: #0D0D0D;
+    color: #cbd1dd;
+}
+
+header{
+    background-color: #A6607A;
+    height: 135px;
+    margin: 0px;
+    padding: 20px 20px 0px 20px;
+  
+}
+
+h1{
+    text-align: center;
+    text-shadow:black 1px 2px 1px;
+    font-weight: bolder;
+    font-size: 2em;
+}
+p{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: #cbd1ddce;
+}
+nav > a {
+    text-align: right;
+    color: #89BAD9; 
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 30px;
+    
+}
+nav > a:hover{
+    text-decoration: underline;
+}
+main{
+    background-color: white;
+    color: #455955;
+    margin: 0px 350px 30px 350px;
+    padding: 1px 10px 10px 10px; 
+    margin-block-end: 0px;
+    height: 1300px;
+}
+#titulo {
+    text-shadow: none;
+    font-weight: normal;
+    text-align: left;
+
+}
+.paragrafo{
+    text-indent: 30px;
+    color: #0D0D0D;
+    margin: 10px;
+    text-align: justify;
+
+}
+h2{
+    background-color: #a6607a77;
+}
+
+ section{
+     background-color: #A6607A;
+ }
+ h3{
+
+ }
+
+
+

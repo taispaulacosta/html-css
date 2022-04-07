@@ -1,0 +1,36 @@
+@charset "UFT-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body{
+    min-height: 100%;
+    background-color: white;
+    
+}
+
+header{
+    background-color: black;
+    height: 200px;
+    padding-bottom: 30px;
+    
+}
+#container { 
+
+    background-color:black;
+    background-size: 100% 100%;
+    position: relative;
+ 
+
+
+}
+ picture {
+    background-size: 100% 100%;
+    position: absolute;
+   
+    left: 50%;
+    top: 50%;
+
+    transform:  translate(-50%, -170%);
+}
